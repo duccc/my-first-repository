@@ -1,6 +1,6 @@
 # Welcome to my first public Repository
 
-So far I've learned out to
+So far I've learned how to
 1. Get Setup with Git and GitHub
 		1. Installing Git 
 		2. Signing up GitHub
